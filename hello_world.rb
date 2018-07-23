@@ -2,7 +2,7 @@
 puts "What is your name?"
 name = gets
 
-name.length
+puts name.length
 puts "Hello #{name}"
 
 # name = "Arella"
