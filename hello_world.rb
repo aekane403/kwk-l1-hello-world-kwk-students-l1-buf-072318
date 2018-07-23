@@ -1,3 +1,5 @@
+# Take in user's name as input and output a personalized greeting
+puts "What is your name?"
 name = gets
 
 puts name
