@@ -1,7 +1,8 @@
-# Take in user's name as input and output a personalized greeting
+# Take in user's name as input and output the number of letters in his/her/their name
 puts "What is your name?"
 name = gets
 
+name.length
 puts "Hello #{name}"
 
 # name = "Arella"
